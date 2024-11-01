@@ -1,16 +1,11 @@
-# riverpod_counter
+#Flutter Counter App with Riverpod and Shared Preferences
 
-A new Flutter project.
+A simple Flutter app that demonstrates state management using Riverpod, with data persistence through Shared Preferences. The app includes a counter feature that can be incremented, decremented, and reset, with the counter value saved locally so it persists between app restarts
 
-## Getting Started
+#Features
+  -Increment, decrement, and reset the counter value.
+  -Persistent state using Shared Preferences to store the counter value locally.
+  -Organized project structure for better modularity and readability.
+  -Two pages demonstrating how to use Riverpod for state management across multiple screens.
+  -Snackbar notifications for user feedback.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
